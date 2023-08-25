@@ -13,13 +13,12 @@ function App() {
 
   const filterItems = (category) => {
     setActiveCategory(category);
-    if(category === "all") {
+    if (category === "all") {
       setMenuItems(items);
       return;
     }
-const newItems =items.filter((item) => item.category === category);
- setMenuItems(newItems)
-
+    const newItems = items.filter((item) => item.category === category);
+    setMenuItems(newItems);
   };
 
   return (
