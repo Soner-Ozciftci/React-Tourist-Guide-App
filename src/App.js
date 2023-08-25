@@ -31,8 +31,8 @@ function App() {
         <Categories
           categories={categories}
           activeCategory={activeCategory}
-          filterItems={filterItems}
-        />
+          filterItems={filterItems}/>
+          <Menu items={menuItems} />
       </section>
     </main>
   );
