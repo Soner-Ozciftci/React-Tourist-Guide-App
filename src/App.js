@@ -1,8 +1,14 @@
+import "./App.css"
+import React, { useState } from "react";
+
+
 function App() {
+
+  
   return (
-    <div className="App">
- <h1>React New Project</h1>
-    </div>
+    <main>
+
+    </main>
   );
 }
 
