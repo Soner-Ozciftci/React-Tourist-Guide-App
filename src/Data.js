@@ -2,7 +2,7 @@ const menu = [
   {
     id: 1,
     title: "Karataş Plajı",
-    category: "ADANA",
+    category: "adana",
     price: 100,
     img: "https://seyyahdefteri.com/wp-content/uploads/2019/07/Akmaz-Plaji-ve-Karatas-Plaji.jpg",
     desc: `Ülkemizdeki en uzun kumsallardan birisidir. Etrafı temizlik anlamında ideal olmasa da kesintisiz 6 kilometre uzunluğu ile ziyaretçilerini ağırlamaktadır. ". `,
@@ -10,7 +10,7 @@ const menu = [
   {
     id: 2,
     title: "Adana Yumurtalık Plajı",
-    category: "ADANA",
+    category: "adana",
     price: 100,
     img: "https://cdn.otelleri.net/landing/adana/gezi-rehberi/karatas-plaji-2514-54.jpg",
     desc: `Yumurtalık, Adana ilinin bir ilçesidir. Eski adı Ayas olup, Türkçeleştirmek adına ismi Yumurtalık'a çevrilmiştir.`,
@@ -18,7 +18,7 @@ const menu = [
   {
     id: 3,
     title: "İncirlik Plajı",
-    category: "ADANA",
+    category: "adana",
     price: 100,
     img: "https://cdn.otelleri.net/landing/adana/gezi-rehberi/incirli-plaji-2514-d6.jpg",
     desc: `Adana sahil şeridinin en batısında yer alan ve Ceyhan Belediyesi sınırları içindeki Kurtpınar Beldesi sınırları içerisinde bulunmaktadır.`,
@@ -26,7 +26,7 @@ const menu = [
   {
     id: 4,
     title: "Tarsusta Kanal",
-    category: "TARSUS",
+    category: "tarsus",
     price: 10,
     img: "https://img.piri.net/resim/imagecrop/2022/06/01/11/30/resized_a08e8-56311f39456843701.jpg",
     desc: `Tarsusta da herhangi bir kanalda serinliyebilirsiniz mükemmel bir seyir zevki şehir sankinleri için.`,
